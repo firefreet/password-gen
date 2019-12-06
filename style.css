@@ -1,0 +1,9 @@
+body {
+    /* png from https://www.toptal.com/designers/subtlepatterns/ */
+    background-image: url(greek-vase.png);
+    font-family: 'Indie Flower', cursive;
+}
+
+.jumbotron {
+    background-color: #d1e6e3;
+}
