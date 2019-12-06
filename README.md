@@ -7,6 +7,7 @@ The user will be prompted to choose from the following password criteria:
   * Numeric characters
   * Lowercase characters
   * Uppercase characters
+  
 Once all prompts are answered, the user will be presented with a password matching the answered prompts. 
 
 https://firefreet.github.io/password-gen/
