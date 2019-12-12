@@ -47,7 +47,7 @@ $("#createButton").on("click", function() {
             charList += special;
         }
 
-        for (var i = 1; i < passLength; i++) {
+        for (var i = 1; i <= passLength; i++) {
             newPassword += charList.charAt(Math.floor(Math.random() * charList.length) +1);
         }
 
